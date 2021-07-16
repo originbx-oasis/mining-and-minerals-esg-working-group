@@ -1,4 +1,4 @@
-# The OriginBX Mining & Minerals ESG Working group
+# OriginBX Mining & Minerals ESG Working Group
 
 ## Scope
 The production of Raw materials such as Steel and Aluminum require a significant amount of energy and are among the biggest contributors to Global Greenhouse Gases.
@@ -11,4 +11,4 @@ Currently, there are different ways of regulating and certifying these emissions
 
 Groups such as The Aluminum Stewardship Initiative, Responsible Minerals initiative and the newly formed Responsible Steel are attempting to streamline these certifications. By providing a means by which these certifications can be placed on a distributed ledger in a standardized manner and attached to a SKU as it transforms from raw material to finished goods will allow producers to get a premium and consumers who pay the premium to account for it on their carbon ledger.
 
-The scope of the OriginBX Mining & Minerals working group is to build out an open Distributed Ledger Carbon Certification standard to help provide producers, consumers and supply chain fabricators with their sustainability goals. 
+The scope of the OriginBX Mining & Minerals ESG Working Group is to build out an open Distributed Ledger Carbon Certification standard to help provide producers, consumers and supply chain fabricators with their sustainability goals. 
