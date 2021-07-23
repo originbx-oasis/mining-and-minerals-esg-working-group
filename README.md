@@ -3,7 +3,7 @@
 ## Scope
 The production of Raw materials such as Steel and Aluminum require a significant amount of energy and are among the biggest contributors to Global Greenhouse Gases.
 
-For example, the production of one ton of Aluminum,  depending on the energy source used i.e Hydroelectric or Coal, could result in the emission at the low end of 4 tons of CO2 or at the high end of 15 tons or more of CO2 emissions.
+For example, the production of one ton of Aluminum,  depending on the energy source used i.e., Hydroelectric or Coal, could result in the emission at the low end of four tons of CO2 or at the high end of 15 tons or more of CO2 emissions.
 
 Producers are making significant investments in clean energy and other technologies to reduce the carbon emission per ton of raw material produced. They would like to command a premium for their products. Today large consumers who want to meet their sustainability goals need to work out individual deals with producers and purchase credits or offsets in the secondary marketplace. This is because it is difficult to distinguish low carbon products from other similar products in the supply chain where fabrication from raw material to finished goods occur.
 
