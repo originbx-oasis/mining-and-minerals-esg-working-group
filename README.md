@@ -1,17 +1,17 @@
 # OriginBX Mining & Minerals ESG Working Group
 
 ## Scope
-The production of Raw materials such as Steel and Aluminum require a significant amount of energy and are among the biggest contributors to Global Greenhouse Gases.
+The production of raw materials such as steel and aluminum require a significant amount of energy and are among the biggest contributors to global greenhouse gases.
 
-For example, the production of one ton of Aluminum,  depending on the energy source used i.e., Hydroelectric or Coal, could result in the emission at the low end of four tons of CO2 or at the high end of 15 tons or more of CO2 emissions.
+The production of one ton of aluminum, for example, could result in four tons of CO2 emissions if produced using hydroelectric energy or as much as 15 tons if produced using coal.
 
-Producers are making significant investments in clean energy and other technologies to reduce the carbon emission per ton of raw material produced. They would like to command a premium for their products. Today large consumers who want to meet their sustainability goals need to work out individual deals with producers and purchase credits or offsets in the secondary marketplace. This is because it is difficult to distinguish low carbon products from other similar products in the supply chain where fabrication from raw material to finished goods occur.
+Consequently, producers are making significant investments in clean energy and other technologies to reduce the carbon emission per ton of raw material produced. By doing so, they can  command a premium for their products. Today, large consumers who want to meet their sustainability goals must negotiate individual deals with producers and purchase credits or offsets in the secondary marketplace. This is because it is difficult to distinguish low carbon products from other similar products in the supply chain where fabrication from raw material to finished goods occur.
 
-Currently, there are different ways of regulating and certifying these emissions. They vary by geography, they vary by scope ie Cradle to gate, Cradle to grave etc. and they vary by process ie Bauxite to Alumina to Aluminum etc. 
+Currently, there are different ways of regulating and certifying these emissions. They vary by geography, they vary by scope, e.g., cradle-to-gate, cradle-to-grave, etc., and they vary by process, e.g., bauxite to alumina to aluminum, etc. 
 
-Groups such as The Aluminum Stewardship Initiative, Responsible Minerals initiative, and the newly formed Responsible Steel are attempting to streamline these certifications. By providing a means by which these certifications can be placed on a distributed ledger in a standardized manner and attached to a SKU as it transforms from raw material to finished goods will allow producers to get a premium and consumers who pay the premium to account for it on their carbon ledger.
+Groups such as the [https://aluminium-stewardship.org/](Aluminum Stewardship Initiative), [http://www.responsiblemineralsinitiative.org/](Responsible Minerals Initiative), and [http://www.responsiblemineralsinitiative.org/](Responsible Steel Initiative) are attempting to streamline these certifications. Providing a means by which these certifications can be placed on a distributed ledger in a standardized manner--and attached to a SKU as it transforms from raw material to finished goods--will allow producers to get a premium and consumers who pay the premium to account for it on their carbon ledgers.
 
-The scope of the OriginBX Mining & Minerals ESG Working Group is to build out an open Distributed Ledger Carbon Certification standard to help producers, consumers and supply chain fabricators with their sustainability goals. 
+The scope of the OriginBX Mining & Minerals ESG Working Group is to build out an open, distributed ledger carbon certification standard to help producers, consumers and supply chain fabricators with their sustainability goals. 
 
 ## Key goals
 The WG will make it possible to standardize how existing carbon certifications can be  tracked via use of blockchains for the data that's needed by current and emerging carbon ledger accounting certification standards.
