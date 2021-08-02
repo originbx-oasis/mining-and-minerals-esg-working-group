@@ -9,7 +9,7 @@ Consequently, producers are making significant investments in clean energy and o
 
 Currently, there are different ways of regulating and certifying these emissions. They vary by geography, they vary by scope, e.g., cradle-to-gate, cradle-to-grave, etc., and they vary by process, e.g., bauxite to alumina to aluminum, etc. 
 
-Groups such as the [https://aluminium-stewardship.org/](Aluminum Stewardship Initiative), [http://www.responsiblemineralsinitiative.org/](Responsible Minerals Initiative), and [http://www.responsiblemineralsinitiative.org/](Responsible Steel Initiative) are attempting to streamline these certifications. Providing a means by which these certifications can be placed on a distributed ledger in a standardized manner--and attached to a SKU as it transforms from raw material to finished goods--will allow producers to get a premium and consumers who pay the premium to account for it on their carbon ledgers.
+Groups such as the [Aluminum Stewardship Initiative](https://aluminium-stewardship.org/), [Responsible Minerals Initiative](http://www.responsiblemineralsinitiative.org/), and [Responsible Steel Initiative](http://www.responsiblemineralsinitiative.org/) are attempting to streamline these certifications. Providing a means by which these certifications can be placed on a distributed ledger in a standardized manner--and attached to a SKU as it transforms from raw material to finished goods--will allow producers to get a premium and consumers who pay the premium to account for it on their carbon ledgers.
 
 The scope of the OriginBX Mining & Minerals ESG Working Group is to build out an open, distributed ledger carbon certification standard to help producers, consumers and supply chain fabricators with their sustainability goals. 
 
