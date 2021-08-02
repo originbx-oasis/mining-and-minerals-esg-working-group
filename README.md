@@ -36,5 +36,8 @@ The WG is seeking representative participation from a wide spectrum of the indus
 |Academia - Business schools and School of Earth Sciences| Observers to the process who can help integrate disparate efforts across ecosystems with emerging standards|
 |Other| TBD
  
+ ## Participation
+ Organizations impacted by these standards are welcome to support the work of OriginBX and be represented in this and other Working Groups and on the [Project Governing Board](https://github.com/originbx-oasis/oasis-open-project/blob/main/PROJECT-GOVERNING-BOARD.md). Contact communications@oasis-open.org for more information.
  
+ Individuals are welcome to make technical contributions as this work progresses.
 
