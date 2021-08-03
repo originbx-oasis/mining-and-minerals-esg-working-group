@@ -11,7 +11,7 @@ Currently, there are different ways of regulating and certifying these emissions
 
 Groups such as the [Aluminum Stewardship Initiative](https://aluminium-stewardship.org/), [Responsible Minerals Initiative](http://www.responsiblemineralsinitiative.org/), and [Responsible Steel Initiative](http://www.responsiblemineralsinitiative.org/) are attempting to streamline these certifications. Providing a means by which these certifications can be placed on a distributed ledger in a standardized manner--and attached to a SKU as it transforms from raw material to finished goods--will allow producers to get a premium and consumers who pay the premium to account for it on their carbon ledgers.
 
-The scope of the OriginBX Mining & Minerals ESG Working Group is to build out an open, distributed ledger carbon certification standard to help producers, consumers and supply chain fabricators with their sustainability goals. 
+The scope of the [OriginBX](http://originbx-oasis.org) Mining & Minerals ESG Working Group is to build out an open, distributed ledger carbon certification standard to help producers, consumers and supply chain fabricators with their sustainability goals. 
 
 ## Key goals
 The WG will make it possible to standardize how existing carbon certifications can be  tracked via use of blockchains for the data that's needed by current and emerging carbon ledger accounting certification standards.
